@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musa Qadri</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
-<img src="![image](https://github.com/user-attachments/assets/d0ae5abb-3885-4023-ab39-d7cdc571dd5b)
+<img src="https://github.com/user-attachments/assets/d0ae5abb-3885-4023-ab39-d7cdc571dd5b
 " align="right"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaqadri&label=Profile%20views&color=0e75b6&style=flat" alt="MusaQadri" /> </p>
