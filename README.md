@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Musa Qadri</h1>
+< h1 align="center">Hi 👋, I'm Musa Qadri</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 <img src="[https://github.com/user-attachments/assets/d0ae5abb-3885-4023-ab39-d7cdc571dd5b](https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg)
 " align="right"></img>
