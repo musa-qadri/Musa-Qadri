@@ -3,11 +3,11 @@
 <img src="[https://github.com/user-attachments/assets/d0ae5abb-3885-4023-ab39-d7cdc571dd5b](https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg)
 " align="right"></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musaqadri&label=Profile%20views&color=0e75b6&style=flat" alt="MusaQadri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=musaqadri&label=Profile%20views&color=0e75b6&style=flat" alt="MusaQadri"/> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Resume Analyzer APP-backend**
+- 🔭 I’m currently working on  **Smart Resume Analyzer APP-backend**
 
 - 🌱 I’m currently learning **REACT JS**
 
